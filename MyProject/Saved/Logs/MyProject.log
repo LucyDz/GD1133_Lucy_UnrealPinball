@@ -2691,3 +2691,475 @@ Continue: Skip saving this asset only.
 [2026.03.27-01.07.17:904][157]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4, StreamState=2
 [2026.03.27-01.07.17:913][157]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
 [2026.03.27-01.07.18:086][158]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2026.03.27-01.09.59:398][952]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5224.608398
+[2026.03.27-01.09.59:625][958]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.27-01.09.59:625][958]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5224.796387, Update Interval: 311.817993
+[2026.03.27-01.15.58:230][510]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5583.440918
+[2026.03.27-01.15.58:457][516]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.27-01.15.58:457][516]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5583.628906, Update Interval: 304.947662
+[2026.03.27-01.21.35:950][702]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5921.164062
+[2026.03.27-01.21.36:170][708]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.27-01.21.36:170][708]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5921.347656, Update Interval: 347.555786
+[2026.03.27-01.28.07:006][231]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6312.234863
+[2026.03.27-01.28.07:231][237]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.27-01.28.07:231][237]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6312.420898, Update Interval: 333.371979
+[2026.03.27-01.34.25:231][272]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6690.467285
+[2026.03.27-01.34.25:421][277]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.27-01.34.25:421][277]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6690.619629, Update Interval: 308.706940
+[2026.03.27-01.40.10:665][451]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7035.898926
+[2026.03.27-01.40.10:851][456]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.27-01.40.10:851][456]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7036.048828, Update Interval: 309.866028
+[2026.03.27-01.44.51:059][898]LogDerivedDataCache: C:/Users/s2533005/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.03.27-01.46.08:478][951]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7393.713379
+[2026.03.27-01.46.08:705][957]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.27-01.46.08:705][957]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7393.902344, Update Interval: 314.079407
+[2026.03.27-01.52.04:863][391]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7750.123535
+[2026.03.27-01.52.05:089][397]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.27-01.52.05:089][397]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7750.312500, Update Interval: 345.858337
+[2026.03.27-01.58.32:012][671]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8137.279297
+[2026.03.27-01.58.32:236][677]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.27-01.58.32:236][677]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8137.465820, Update Interval: 305.978577
+[2026.03.27-02.04.26:913][507]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8492.184570
+[2026.03.27-02.04.27:307][512]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.27-02.04.27:307][512]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8492.383789, Update Interval: 337.700745
+[2026.03.27-02.04.34:971][660]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2026.03.27-02.04.34:986][660]LogContentBrowser: Creating deferred item: NewFolder
+[2026.03.27-02.04.35:009][661]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2026.03.27-02.04.37:186][707]LogContentBrowser: Attempting asset rename: NewFolder -> UI
+[2026.03.27-02.04.37:187][707]LogContentBrowser: End creating deferred item NewFolder
+[2026.03.27-02.04.44:756][800]LogSlate: Window 'Pick Parent Class' being destroyed
+[2026.03.27-02.06.54:307][842]LogSlate: Window 'Pick Parent Class for New Widget Blueprint' being destroyed
+[2026.03.27-02.10.48:920][974]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8874.193359
+[2026.03.27-02.10.49:921][977]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.27-02.10.49:921][977]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8874.860352, Update Interval: 332.051758
+[2026.03.27-02.13.39:649][559]LogSlate: Window 'Pick Parent Class for New Widget Blueprint' being destroyed
+[2026.03.27-02.13.39:661][559]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2026.03.27-02.13.39:669][559]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2026.03.27-02.13.39:725][561]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2026.03.27-02.13.47:306][685]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> WBP_MainMenu
+[2026.03.27-02.13.47:324][685]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2026.03.27-02.13.48:728][705]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/LucyAssets/UI/WBP_MainMenu.WBP_MainMenu
+[2026.03.27-02.13.48:738][705]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_19
+[2026.03.27-02.13.48:752][705]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_20
+[2026.03.27-02.13.48:767][705]LogSlate: Warning: The command 'UMGEditor.OpenAnimDrawer' has the same default chord as 'EditorViewport.Next' [Ctrl+Shift+Space Bar]
+[2026.03.27-02.13.49:578][705]LogSlate: Took 0.006391 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2026.03.27-02.14.15:530][ 95]LogEditorTransaction: Undo Drag and Drop Widget
+[2026.03.27-02.14.44:431][519]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2026.03.27-02.14.44:432][519]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Test_lvl' took 0.058
+[2026.03.27-02.14.44:434][519]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/LucyAssets/UI/WBP_MainMenu] ([2] browsable assets)...
+[2026.03.27-02.14.44:437][519]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/LucyAssets/UI/WBP_MainMenu.WBP_MainMenu]
+[2026.03.27-02.14.44:437][519]OBJ SavePackage: Finished generating thumbnails for package [/Game/LucyAssets/UI/WBP_MainMenu]
+[2026.03.27-02.14.44:446][519]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/LucyAssets/UI/WBP_MainMenu_Auto2
+[2026.03.27-02.14.44:446][519]LogSavePackage: Moving '../../../../../../GD1133_Lucy_UnrealPinball/MyProject/Saved/WBP_MainMenu_Auto267FD87A9417BFF1C1E6BADBE1E7E755D.tmp' to '../../../../../../GD1133_Lucy_UnrealPinball/MyProject/Saved/Autosaves/Game/LucyAssets/UI/WBP_MainMenu_Auto2.uasset'
+[2026.03.27-02.14.44:447][519]LogFileHelpers: Auto-saving content packages took 0.014
+[2026.03.27-02.17.19:240][813]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9264.519531
+[2026.03.27-02.17.19:537][817]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.27-02.17.19:537][817]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9264.743164, Update Interval: 358.273254
+[2026.03.27-02.18.49:245][118]LogEditorTransaction: Undo Edit Min Desired Width
+[2026.03.27-02.23.28:953][179]LogSlate: Window 'Color Picker' being destroyed
+[2026.03.27-02.23.30:565][201]LogEditorTransaction: Undo Edit Color and Opacity
+[2026.03.27-02.23.37:630][299]LogSlate: Window 'Color Picker' being destroyed
+[2026.03.27-02.23.48:040][453]LogSlate: Window 'Color Picker' being destroyed
+[2026.03.27-02.23.54:841][551]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9660.106445
+[2026.03.27-02.23.55:106][555]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.27-02.23.55:106][555]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9660.304688, Update Interval: 304.596100
+[2026.03.27-02.23.58:663][608]LogSlate: Window 'Color Picker' being destroyed
+[2026.03.27-02.24.03:866][683]LogSlate: Window 'Color Picker' being destroyed
+[2026.03.27-02.24.11:487][791]LogSlate: Window 'Color Picker' being destroyed
+[2026.03.27-02.25.35:823][ 36]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2026.03.27-02.25.36:573][ 45]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.27-02.25.36:822][ 45]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/LucyAssets/UI/WBP_MainMenu] ([2] browsable assets)...
+[2026.03.27-02.25.36:830][ 45]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/LucyAssets/UI/WBP_MainMenu.WBP_MainMenu]
+[2026.03.27-02.25.36:830][ 45]OBJ SavePackage: Finished generating thumbnails for package [/Game/LucyAssets/UI/WBP_MainMenu]
+[2026.03.27-02.25.36:830][ 45]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LucyAssets/UI/WBP_MainMenu" FILE="../../../../../../GD1133_Lucy_UnrealPinball/MyProject/Content/LucyAssets/UI/WBP_MainMenu.uasset" SILENT=true
+[2026.03.27-02.25.36:842][ 45]LogSavePackage: Moving output files for package: /Game/LucyAssets/UI/WBP_MainMenu
+[2026.03.27-02.25.36:842][ 45]LogSavePackage: Moving '../../../../../../GD1133_Lucy_UnrealPinball/MyProject/Saved/WBP_MainMenuE8FCF98F4937D1236EB2B0808DBA0201.tmp' to '../../../../../../GD1133_Lucy_UnrealPinball/MyProject/Content/LucyAssets/UI/WBP_MainMenu.uasset'
+[2026.03.27-02.25.36:858][ 45]LogFileHelpers: InternalPromptForCheckoutAndSave took 284.308 ms (total: 36.8 sec)
+[2026.03.27-02.25.36:938][ 45]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.27-02.25.36:938][ 45]LogContentValidation: Enabled validators:
+[2026.03.27-02.25.36:938][ 45]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.27-02.25.36:938][ 45]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.27-02.25.36:938][ 45]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.27-02.25.36:938][ 45]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.27-02.25.36:938][ 45]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.27-02.25.36:938][ 45]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.27-02.25.36:940][ 45]AssetCheck: /Game/LucyAssets/UI/WBP_MainMenu Validating asset
+[2026.03.27-02.25.36:974][ 45]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../GD1133_Lucy_UnrealPinball/MyProject/Saved/SourceControl/UncontrolledChangelists.json
+[2026.03.27-02.25.44:792][147]LogSlate: Window 'Pick Parent Class for New Widget Blueprint' being destroyed
+[2026.03.27-02.25.44:803][147]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2026.03.27-02.25.44:812][147]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2026.03.27-02.25.44:829][148]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2026.03.27-02.25.49:720][229]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> WBP_HUD
+[2026.03.27-02.25.49:729][229]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2026.03.27-02.25.51:151][249]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/LucyAssets/UI/WBP_HUD.WBP_HUD
+[2026.03.27-02.25.51:152][249]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_23
+[2026.03.27-02.25.51:167][249]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_24
+[2026.03.27-02.27.03:491][303]LogStreaming: Display: FlushAsyncLoading(999): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.27-02.28.21:419][444]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2026.03.27-02.28.21:422][444]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Test_lvl' took 0.049
+[2026.03.27-02.28.21:423][444]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/LucyAssets/UI/WBP_HUD] ([2] browsable assets)...
+[2026.03.27-02.28.21:429][444]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/LucyAssets/UI/WBP_HUD.WBP_HUD]
+[2026.03.27-02.28.21:429][444]OBJ SavePackage: Finished generating thumbnails for package [/Game/LucyAssets/UI/WBP_HUD]
+[2026.03.27-02.28.21:429][444]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LucyAssets/UI/WBP_HUD" FILE="../../../../../../GD1133_Lucy_UnrealPinball/MyProject/Saved/Autosaves/Game/LucyAssets/UI/WBP_HUD_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2026.03.27-02.28.21:438][444]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/LucyAssets/UI/WBP_HUD_Auto3
+[2026.03.27-02.28.21:438][444]LogSavePackage: Moving '../../../../../../GD1133_Lucy_UnrealPinball/MyProject/Saved/WBP_HUD_Auto3F8CF6B0548F77CDF832A138913C90C0C.tmp' to '../../../../../../GD1133_Lucy_UnrealPinball/MyProject/Saved/Autosaves/Game/LucyAssets/UI/WBP_HUD_Auto3.uasset'
+[2026.03.27-02.28.21:439][444]LogFileHelpers: Auto-saving content packages took 0.017
+[2026.03.27-02.29.38:521][574]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10003.774414
+[2026.03.27-02.29.39:008][581]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.27-02.29.39:008][581]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10004.190430, Update Interval: 305.713074
+[2026.03.27-02.30.14:755][101]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2026.03.27-02.30.16:840][131]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.27-02.30.17:053][131]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/LucyAssets/UI/WBP_HUD] ([2] browsable assets)...
+[2026.03.27-02.30.17:062][131]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/LucyAssets/UI/WBP_HUD.WBP_HUD]
+[2026.03.27-02.30.17:062][131]OBJ SavePackage: Finished generating thumbnails for package [/Game/LucyAssets/UI/WBP_HUD]
+[2026.03.27-02.30.17:062][131]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LucyAssets/UI/WBP_HUD" FILE="../../../../../../GD1133_Lucy_UnrealPinball/MyProject/Content/LucyAssets/UI/WBP_HUD.uasset" SILENT=true
+[2026.03.27-02.30.17:073][131]LogSavePackage: Moving output files for package: /Game/LucyAssets/UI/WBP_HUD
+[2026.03.27-02.30.17:073][131]LogSavePackage: Moving '../../../../../../GD1133_Lucy_UnrealPinball/MyProject/Saved/WBP_HUD040F87144BCA92DC9DEF71B045957052.tmp' to '../../../../../../GD1133_Lucy_UnrealPinball/MyProject/Content/LucyAssets/UI/WBP_HUD.uasset'
+[2026.03.27-02.30.17:091][131]LogFileHelpers: InternalPromptForCheckoutAndSave took 250.824 ms (total: 37.0 sec)
+[2026.03.27-02.30.17:168][131]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.27-02.30.17:168][131]LogContentValidation: Enabled validators:
+[2026.03.27-02.30.17:168][131]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.27-02.30.17:168][131]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.27-02.30.17:168][131]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.27-02.30.17:168][131]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.27-02.30.17:168][131]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.27-02.30.17:168][131]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.27-02.30.17:169][131]AssetCheck: /Game/LucyAssets/UI/WBP_HUD Validating asset
+[2026.03.27-02.30.17:201][131]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../GD1133_Lucy_UnrealPinball/MyProject/Saved/SourceControl/UncontrolledChangelists.json
+[2026.03.27-02.34.49:750][214]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2026.03.27-02.34.58:724][345]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.03.27-02.34.58:730][345]LogContentBundle: [Test_lvl(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.03.27-02.34.58:730][345]LogWorldPartition: Display: GenerateStreaming for 'Test_lvl' started...
+[2026.03.27-02.34.58:731][345]MapCheck: Error: World references spatially loaded actor /Game/Test_lvl.BP_Killzone 
+[2026.03.27-02.34.58:731][345]MapCheck: Error: World references spatially loaded actor /Game/Test_lvl.BP_BallSpawner 
+[2026.03.27-02.34.58:731][345]MapCheck: Error: World references spatially loaded actor /Game/Test_lvl.BP_Flipper2 
+[2026.03.27-02.34.58:731][345]MapCheck: Error: World references spatially loaded actor /Game/Test_lvl.BP_Flipper 
+[2026.03.27-02.34.58:731][345]MapCheck: Error: World references spatially loaded actor /Game/Test_lvl.BP_Plunger 
+[2026.03.27-02.34.58:731][345]MapCheck: Error: World references spatially loaded actor /Game/Test_lvl.CameraActor 
+[2026.03.27-02.34.58:733][345]LogWorldPartition: Display: GenerateStreaming for 'Test_lvl' took 2.176 ms (total: 9.144 ms)
+[2026.03.27-02.34.58:733][345]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.03.27-02.34.58:733][345]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Test_lvl
+[2026.03.27-02.34.58:754][345]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.03.27-02.34.58:760][345]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 6.070 ms (total: 46.552 ms)
+[2026.03.27-02.34.58:761][345]LogPlayLevel: PIE: StaticDuplicateObject took: (0.028376s)
+[2026.03.27-02.34.58:761][345]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Test_lvl.Test_lvl to /Game/UEDPIE_0_Test_lvl.Test_lvl (0.028414s)
+[2026.03.27-02.34.58:788][345]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2026.03.27-02.34.58:793][345]LogChaosDD: Creating Chaos Debug Draw Scene for world Test_lvl
+[2026.03.27-02.34.58:795][345]LogWorldPartition: ULevel::OnLevelLoaded(Test_lvl)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.03.27-02.34.58:795][345]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.03.27-02.34.58:795][345]LogWorldPartition: UWorldPartition::Initialize : World = /Game/UEDPIE_0_Test_lvl.Test_lvl, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.03.27-02.34.58:795][345]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.03.27-02.34.58:803][345]LogWorldPartition: Display: WorldPartition initialize took 7.883 ms (total: 990.881 ms)
+[2026.03.27-02.34.58:803][345]LogPlayLevel: PIE: World Init took: (0.009895s)
+[2026.03.27-02.34.58:803][345]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2026.03.27-02.34.58:803][345]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.27-02.34.58:803][345]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.27-02.34.58:803][345]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.27-02.34.58:803][345]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.27-02.34.58:803][345]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.03.27-02.34.58:803][345]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.27-02.34.58:803][345]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.03.27-02.34.58:803][345]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.27-02.34.58:803][345]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.27-02.34.58:803][345]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.27-02.34.58:803][345]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.27-02.34.58:807][345]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.03.27-02.34.58:824][345]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Teradici Virtual Audio Driver)
+[2026.03.27-02.34.58:824][345]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.27-02.34.58:824][345]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.27-02.34.58:824][345]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.27-02.34.58:825][345]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2026.03.27-02.34.58:825][345]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2026.03.27-02.34.58:830][345]LogInit: FAudioDevice initialized with ID 5.
+[2026.03.27-02.34.58:830][345]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2026.03.27-02.34.58:830][345]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2026.03.27-02.34.58:830][345]LogAudio: Display: Audio Device (ID: 5) registered with world 'Test_lvl'.
+[2026.03.27-02.34.58:830][345]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 5
+[2026.03.27-02.34.58:835][345]LogLoad: Game class is 'BP_PinballGameMode_FreePlay_C'
+[2026.03.27-02.34.58:838][345]LogWorld: Bringing World /Game/UEDPIE_0_Test_lvl.Test_lvl up for play (max tick rate 0) at 2026.03.26-19.34.58
+[2026.03.27-02.34.58:838][345]LogWorld: Bringing up level for play took: 0.002460
+[2026.03.27-02.34.58:840][345]LogOnline: OSS: Created online subsystem instance for: :Context_27
+[2026.03.27-02.34.58:842][345]LogStreaming: Display: FlushAsyncLoading(1013,1014,1015,1016,1017,1018,1019,1011,1012,1008,1009,1010,1001,1002,1003,1004,1005,1006,1007): 19 QueuedPackages, 0 AsyncPackages
+[2026.03.27-02.34.58:853][345]LogBlueprintUserMessages: [BP_PinballGameMode_FreePlay_C_0] GameMode: Freeplay
+[2026.03.27-02.34.58:853][345]LogBlueprintUserMessages: [BP_PinballGameState_C_0] 0.0
+[2026.03.27-02.34.58:853][345]LogBlueprintUserMessages: [BP_PinballGameState_C_0] 3
+[2026.03.27-02.34.58:854][345]PIE: Server logged in
+[2026.03.27-02.34.58:856][345]PIE: Play in editor total start time 0.127 seconds.
+[2026.03.27-02.34.58:963][346]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.03.27-02.35.08:947][511]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.27-02.35.08:947][511]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Test_lvl
+[2026.03.27-02.35.08:948][511]LogWorld: UWorld::CleanupWorld for Test_lvl, bSessionEnded=true, bCleanupResources=true
+[2026.03.27-02.35.08:949][511]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.27-02.35.08:949][511]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/UEDPIE_0_Test_lvl.Test_lvl
+[2026.03.27-02.35.09:016][511]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.27-02.35.09:021][511]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.27-02.35.09:050][511]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.27-02.35.09:052][511]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 5
+[2026.03.27-02.35.09:052][511]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5, StreamState=4
+[2026.03.27-02.35.09:054][511]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5, StreamState=2
+[2026.03.27-02.35.09:064][511]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2026.03.27-02.35.09:209][512]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2026.03.27-02.35.38:499][938]LogContentBrowser: Deferred new asset file creation: NewWorld
+[2026.03.27-02.35.38:557][938]LogContentBrowser: Creating deferred item: NewWorld
+[2026.03.27-02.35.38:577][939]LogContentBrowser: Renaming the item being created (Deferred Item: NewWorld).
+[2026.03.27-02.35.41:884][994]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10367.144531
+[2026.03.27-02.35.42:198][999]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.27-02.35.42:198][999]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10367.396484, Update Interval: 334.194153
+[2026.03.27-02.35.42:255][  1]LogContentBrowser: Attempting asset rename: NewWorld -> MainMenu
+[2026.03.27-02.35.42:257][  1]LogChaosDD: Creating Chaos Debug Draw Scene for world MainMenu
+[2026.03.27-02.35.42:327][  1]LogContentBrowser: End creating deferred item NewWorld
+[2026.03.27-02.35.43:878][ 25]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2026.03.27-02.35.45:295][ 25]LogSlate: Window 'Save Content' being destroyed
+[2026.03.27-02.35.45:313][ 25]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.27-02.35.45:385][ 25]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMenu" FILE="../../../../../../GD1133_Lucy_UnrealPinball/MyProject/Content/MainMenu.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2026.03.27-02.35.45:412][ 25]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2026.03.27-02.35.45:423][ 25]LogSavePackage: Moving output files for package: /Game/MainMenu
+[2026.03.27-02.35.45:424][ 25]LogSavePackage: Moving '../../../../../../GD1133_Lucy_UnrealPinball/MyProject/Saved/MainMenuB9ED57DC4CD8420A593F11BAF96F11F4.tmp' to '../../../../../../GD1133_Lucy_UnrealPinball/MyProject/Content/MainMenu.umap'
+[2026.03.27-02.35.45:424][ 25]LogFileHelpers: All files are already saved.
+[2026.03.27-02.35.45:431][ 25]LogFileHelpers: Saving map 'MainMenu' took 0.045
+[2026.03.27-02.35.45:431][ 25]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Test_lvl" FILE="../../../../../../GD1133_Lucy_UnrealPinball/MyProject/Content/Test_lvl.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2026.03.27-02.35.45:478][ 25]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2026.03.27-02.35.45:501][ 25]LogSavePackage: Moving output files for package: /Game/Test_lvl
+[2026.03.27-02.35.45:501][ 25]LogSavePackage: Moving '../../../../../../GD1133_Lucy_UnrealPinball/MyProject/Saved/Test_lvl892D30814AD257E6B1E5659068CB43DC.tmp' to '../../../../../../GD1133_Lucy_UnrealPinball/MyProject/Content/Test_lvl.umap'
+[2026.03.27-02.35.45:508][ 25]LogFileHelpers: All files are already saved.
+[2026.03.27-02.35.45:509][ 25]LogFileHelpers: All files are already saved.
+[2026.03.27-02.35.45:510][ 25]LogFileHelpers: Saving map 'Test_lvl' took 0.079
+[2026.03.27-02.35.45:603][ 25]LogFileHelpers: InternalPromptForCheckoutAndSave took 290.284 ms (total: 37.3 sec)
+[2026.03.27-02.35.45:603][ 25]LogAssetEditorSubsystem: Opening Asset editor for World /Game/MainMenu.MainMenu
+[2026.03.27-02.35.45:604][ 25]Cmd: MAP LOAD FILE="../../../../../../GD1133_Lucy_UnrealPinball/MyProject/Content/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2026.03.27-02.35.45:655][ 25]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2026.03.27-02.35.45:655][ 25]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.27-02.35.45:691][ 25]LogWorld: UWorld::CleanupWorld for Test_lvl, bSessionEnded=true, bCleanupResources=true
+[2026.03.27-02.35.45:691][ 25]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.27-02.35.45:691][ 25]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Test_lvl.Test_lvl
+[2026.03.27-02.35.45:726][ 25]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.03.27-02.35.45:733][ 25]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2026.03.27-02.35.45:740][ 25]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2026.03.27-02.35.45:740][ 25]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.27-02.35.45:767][ 25]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2026.03.27-02.35.45:795][ 25]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2026.03.27-02.35.45:797][ 25]LogStreaming: Display: FlushAsyncLoading(1020): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.27-02.35.45:799][ 25]LogAudio: Display: Audio Device (ID: 1) registered with world 'MainMenu'.
+[2026.03.27-02.35.45:799][ 25]LogChaosDD: Creating Chaos Debug Draw Scene for world MainMenu
+[2026.03.27-02.35.45:833][ 25]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2026.03.27-02.35.45:861][ 25]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2026.03.27-02.35.45:868][ 25]Cmd: MAP CHECKDEP NOCLEARLOG
+[2026.03.27-02.35.45:868][ 25]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.051ms to complete.
+[2026.03.27-02.35.45:965][ 25]LogContentValidation: Display: Starting to validate 2 assets
+[2026.03.27-02.35.45:965][ 25]LogContentValidation: Enabled validators:
+[2026.03.27-02.35.45:965][ 25]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.27-02.35.45:965][ 25]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.27-02.35.45:965][ 25]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.27-02.35.45:965][ 25]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.27-02.35.45:965][ 25]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.27-02.35.45:965][ 25]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.27-02.35.45:965][ 25]AssetCheck: /Game/MainMenu Validating asset
+[2026.03.27-02.35.46:003][ 25]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2026.03.27-02.35.46:043][ 25]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../GD1133_Lucy_UnrealPinball/MyProject/Saved/SourceControl/UncontrolledChangelists.json
+[2026.03.27-02.35.46:129][ 27]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.03.27-02.35.54:370][225]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/MainMenu.MainMenu:PersistentLevel.MainMenu
+[2026.03.27-02.35.54:371][225]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_27
+[2026.03.27-02.36.07:639][495]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2026.03.27-02.36.10:137][549]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.03.27-02.36.10:145][549]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.03.27-02.36.10:145][549]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainMenu
+[2026.03.27-02.36.10:147][549]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001380s)
+[2026.03.27-02.36.10:147][549]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainMenu.MainMenu to /Game/UEDPIE_0_MainMenu.MainMenu (0.001416s)
+[2026.03.27-02.36.10:176][549]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2026.03.27-02.36.10:178][549]LogChaosDD: Creating Chaos Debug Draw Scene for world MainMenu
+[2026.03.27-02.36.10:180][549]LogPlayLevel: PIE: World Init took: (0.001947s)
+[2026.03.27-02.36.10:180][549]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2026.03.27-02.36.10:181][549]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.27-02.36.10:181][549]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.27-02.36.10:181][549]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.27-02.36.10:181][549]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.27-02.36.10:181][549]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.03.27-02.36.10:181][549]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.27-02.36.10:181][549]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.03.27-02.36.10:181][549]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.27-02.36.10:181][549]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.27-02.36.10:181][549]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.27-02.36.10:181][549]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.27-02.36.10:183][549]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.03.27-02.36.10:201][549]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Teradici Virtual Audio Driver)
+[2026.03.27-02.36.10:201][549]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.27-02.36.10:201][549]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.27-02.36.10:201][549]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.27-02.36.10:202][549]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2026.03.27-02.36.10:202][549]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2026.03.27-02.36.10:205][549]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2026.03.27-02.36.10:205][549]LogInit: FAudioDevice initialized with ID 6.
+[2026.03.27-02.36.10:205][549]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2026.03.27-02.36.10:205][549]LogAudio: Display: Audio Device (ID: 6) registered with world 'MainMenu'.
+[2026.03.27-02.36.10:205][549]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 6
+[2026.03.27-02.36.10:227][549]LogLoad: Game class is 'GameModeBase'
+[2026.03.27-02.36.10:227][549]LogWorld: Bringing World /Game/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2026.03.26-19.36.10
+[2026.03.27-02.36.10:227][549]LogWorld: Bringing up level for play took: 0.000469
+[2026.03.27-02.36.10:230][549]LogOnline: OSS: Created online subsystem instance for: :Context_29
+[2026.03.27-02.36.10:231][549]PIE: Server logged in
+[2026.03.27-02.36.10:236][549]PIE: Play in editor total start time 0.09 seconds.
+[2026.03.27-02.36.10:345][550]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.03.27-02.36.14:709][668]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.27-02.36.14:709][668]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MainMenu
+[2026.03.27-02.36.14:709][668]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2026.03.27-02.36.14:709][668]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.27-02.36.14:710][668]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.27-02.36.14:714][668]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.27-02.36.14:739][668]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.27-02.36.14:739][668]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 6
+[2026.03.27-02.36.14:739][668]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6, StreamState=4
+[2026.03.27-02.36.14:741][668]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6, StreamState=2
+[2026.03.27-02.36.14:749][668]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2026.03.27-02.36.14:777][669]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2026.03.27-02.41.00:699][688]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2026.03.27-02.41.03:757][802]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.03.27-02.41.03:765][802]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.03.27-02.41.03:765][802]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainMenu
+[2026.03.27-02.41.03:766][802]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001390s)
+[2026.03.27-02.41.03:766][802]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainMenu.MainMenu to /Game/UEDPIE_0_MainMenu.MainMenu (0.001457s)
+[2026.03.27-02.41.03:793][802]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2026.03.27-02.41.03:795][802]LogChaosDD: Creating Chaos Debug Draw Scene for world MainMenu
+[2026.03.27-02.41.03:797][802]LogPlayLevel: PIE: World Init took: (0.001995s)
+[2026.03.27-02.41.03:798][802]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2026.03.27-02.41.03:798][802]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.27-02.41.03:798][802]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.27-02.41.03:798][802]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.27-02.41.03:798][802]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.27-02.41.03:798][802]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.03.27-02.41.03:798][802]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.27-02.41.03:798][802]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.03.27-02.41.03:798][802]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.27-02.41.03:798][802]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.27-02.41.03:798][802]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.27-02.41.03:798][802]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.27-02.41.03:802][802]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.03.27-02.41.03:816][802]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Teradici Virtual Audio Driver)
+[2026.03.27-02.41.03:817][802]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.27-02.41.03:817][802]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.27-02.41.03:817][802]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.27-02.41.03:817][802]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2026.03.27-02.41.03:817][802]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2026.03.27-02.41.03:821][802]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2026.03.27-02.41.03:821][802]LogInit: FAudioDevice initialized with ID 7.
+[2026.03.27-02.41.03:821][802]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2026.03.27-02.41.03:821][802]LogAudio: Display: Audio Device (ID: 7) registered with world 'MainMenu'.
+[2026.03.27-02.41.03:821][802]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 7
+[2026.03.27-02.41.03:826][802]LogLoad: Game class is 'GameModeBase'
+[2026.03.27-02.41.03:826][802]LogWorld: Bringing World /Game/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2026.03.26-19.41.03
+[2026.03.27-02.41.03:826][802]LogWorld: Bringing up level for play took: 0.000536
+[2026.03.27-02.41.03:828][802]LogOnline: OSS: Created online subsystem instance for: :Context_30
+[2026.03.27-02.41.03:831][802]PIE: Server logged in
+[2026.03.27-02.41.03:834][802]PIE: Play in editor total start time 0.07 seconds.
+[2026.03.27-02.41.03:927][803]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.03.27-02.41.10:626][ 82]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.27-02.41.10:626][ 82]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MainMenu
+[2026.03.27-02.41.10:626][ 82]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2026.03.27-02.41.10:626][ 82]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.27-02.41.10:635][ 82]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.27-02.41.10:639][ 82]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.27-02.41.10:665][ 82]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.27-02.41.10:665][ 82]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 7
+[2026.03.27-02.41.10:665][ 82]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7, StreamState=4
+[2026.03.27-02.41.10:668][ 82]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7, StreamState=2
+[2026.03.27-02.41.10:674][ 82]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2026.03.27-02.41.10:711][ 84]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2026.03.27-02.41.16:729][325]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2026.03.27-02.41.18:052][325]LogSlate: Window 'Save Content' being destroyed
+[2026.03.27-02.41.18:070][325]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.27-02.41.18:152][325]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainMenu" FILE="../../../../../../GD1133_Lucy_UnrealPinball/MyProject/Content/MainMenu.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2026.03.27-02.41.18:193][325]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2026.03.27-02.41.18:206][325]LogSavePackage: Moving output files for package: /Game/MainMenu
+[2026.03.27-02.41.18:206][325]LogSavePackage: Moving '../../../../../../GD1133_Lucy_UnrealPinball/MyProject/Saved/MainMenuA11842E24B94B9476CB3DBA746B794D6.tmp' to '../../../../../../GD1133_Lucy_UnrealPinball/MyProject/Content/MainMenu.umap'
+[2026.03.27-02.41.18:213][325]LogFileHelpers: All files are already saved.
+[2026.03.27-02.41.18:214][325]LogFileHelpers: Saving map 'MainMenu' took 0.064
+[2026.03.27-02.41.18:300][325]LogFileHelpers: InternalPromptForCheckoutAndSave took 231.130 ms (total: 37.6 sec)
+[2026.03.27-02.41.18:301][325]LogStreaming: Display: FlushAsyncLoading(1021): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.27-02.41.18:305][325]LogLinker: Display: [AssetLog] C:\GD1133_Lucy_UnrealPinball\MyProject\Content\LucyAssets\BP_PinballGameMode_FreePlay.uasset: CreateExport: Failed to load Parent for Function /Game/LucyAssets/BP_PinballGameMode_FreePlay.BP_PinballGameMode_FreePlay_C:AddScore; removing parent information, but keeping function
+[2026.03.27-02.41.18:305][325]LogLinker: Display: [AssetLog] C:\GD1133_Lucy_UnrealPinball\MyProject\Content\LucyAssets\BP_PinballGameMode_FreePlay.uasset: CreateExport: Failed to load Parent for Function /Game/LucyAssets/BP_PinballGameMode_FreePlay.BP_PinballGameMode_FreePlay_C:OnBallLost; removing parent information, but keeping function
+[2026.03.27-02.41.18:305][325]LogLinker: Display: [AssetLog] C:\GD1133_Lucy_UnrealPinball\MyProject\Content\LucyAssets\BP_PinballGameMode_Score.uasset: CreateExport: Failed to load Parent for Function /Game/LucyAssets/BP_PinballGameMode_Score.BP_PinballGameMode_Score_C:AddScore; removing parent information, but keeping function
+[2026.03.27-02.41.18:305][325]LogLinker: Display: [AssetLog] C:\GD1133_Lucy_UnrealPinball\MyProject\Content\LucyAssets\BP_PinballGameMode_Score.uasset: CreateExport: Failed to load Parent for Function /Game/LucyAssets/BP_PinballGameMode_Score.BP_PinballGameMode_Score_C:OnBallLost; removing parent information, but keeping function
+[2026.03.27-02.41.18:339][325]LogChaosDD: Creating Chaos Debug Draw Scene for world Test_lvl
+[2026.03.27-02.41.18:340][325]LogWorldPartition: ULevel::OnLevelLoaded(Test_lvl)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=1, InitializeForGame=0)
+[2026.03.27-02.41.18:340][325]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.03.27-02.41.18:340][325]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Test_lvl.Test_lvl, World Type = Inactive, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 1, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.03.27-02.41.18:345][325]LogWorldPartition: Display: WorldPartition initialize took 5.356 ms (total: 996.237 ms)
+[2026.03.27-02.41.18:348][325]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Test_lvl.Test_lvl
+[2026.03.27-02.41.18:348][325]Cmd: MAP LOAD FILE="../../../../../../GD1133_Lucy_UnrealPinball/MyProject/Content/Test_lvl.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2026.03.27-02.41.18:390][325]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2026.03.27-02.41.18:390][325]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.27-02.41.18:411][325]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2026.03.27-02.41.18:411][325]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.27-02.41.18:438][325]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.03.27-02.41.18:440][325]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2026.03.27-02.41.18:445][325]LogWorld: UWorld::CleanupWorld for Test_lvl, bSessionEnded=true, bCleanupResources=true
+[2026.03.27-02.41.18:445][325]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.27-02.41.18:445][325]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Test_lvl.Test_lvl
+[2026.03.27-02.41.18:471][325]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2026.03.27-02.41.18:496][325]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2026.03.27-02.41.18:538][325]LogAudio: Display: Audio Device (ID: 1) registered with world 'Test_lvl'.
+[2026.03.27-02.41.18:538][325]LogChaosDD: Creating Chaos Debug Draw Scene for world Test_lvl
+[2026.03.27-02.41.18:541][325]LogWorldPartition: ULevel::OnLevelLoaded(Test_lvl)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=1, InitializeForGame=0)
+[2026.03.27-02.41.18:541][325]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.03.27-02.41.18:541][325]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Test_lvl.Test_lvl, World Type = Editor, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 1, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.03.27-02.41.18:554][325]LogWorldPartition: Display: WorldPartition initialize took 12.604 ms (total: 1.00 sec)
+[2026.03.27-02.41.18:595][325]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2026.03.27-02.41.18:623][325]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2026.03.27-02.41.18:630][325]Cmd: MAP CHECKDEP NOCLEARLOG
+[2026.03.27-02.41.18:632][325]MapCheck: Error: World references spatially loaded actor /Game/Test_lvl.BP_Killzone 
+[2026.03.27-02.41.18:632][325]MapCheck: Error: World references spatially loaded actor /Game/Test_lvl.BP_BallSpawner 
+[2026.03.27-02.41.18:632][325]MapCheck: Error: World references spatially loaded actor /Game/Test_lvl.BP_Flipper2 
+[2026.03.27-02.41.18:632][325]MapCheck: Error: World references spatially loaded actor /Game/Test_lvl.BP_Flipper 
+[2026.03.27-02.41.18:632][325]MapCheck: Error: World references spatially loaded actor /Game/Test_lvl.BP_Plunger 
+[2026.03.27-02.41.18:632][325]MapCheck: Error: World references spatially loaded actor /Game/Test_lvl.CameraActor 
+[2026.03.27-02.41.18:633][325]MapCheck: Map check complete: 6 Error(s), 0 Warning(s), took 2.128ms to complete.
+[2026.03.27-02.41.19:074][325]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.27-02.41.19:074][325]LogContentValidation: Enabled validators:
+[2026.03.27-02.41.19:074][325]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.27-02.41.19:074][325]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.27-02.41.19:074][325]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.27-02.41.19:074][325]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.27-02.41.19:074][325]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.27-02.41.19:074][325]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.27-02.41.19:112][325]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2026.03.27-02.41.19:269][327]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.03.27-02.41.19:572][344]LogStreaming: Display: FlushAsyncLoading(1056,1057,1058,1059,1060,1061,1062,1063,1064,1065,1066,1067,1068,1069,1070,1071,1072,1073,1074,1075,1076,1077,1078,1079,1080,1081,1082,1083,1084,1085,1086,1087,1088,1089,1090,1091,1092,1093,1094,1095,1096,1097,1098,1099,1100,1101,1102,1103,1104,1105,1106,1107,1108,1109,1110,1111,1112,1113,1114,1115,1116,1117,1118,1119): 64 QueuedPackages, 0 AsyncPackages
+[2026.03.27-02.41.27:096][582]LogSlate: Window 'Message Log' being destroyed
+[2026.03.27-02.41.27:119][582]LogSlate: Window 'Message Log' being destroyed
+[2026.03.27-02.41.30:156][773]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Test_lvl.Test_lvl:PersistentLevel.Test_lvl
+[2026.03.27-02.41.30:157][773]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_28
+[2026.03.27-02.41.58:673][688]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10743.905273
+[2026.03.27-02.41.58:828][698]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.27-02.41.58:828][698]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10744.043945, Update Interval: 341.187164
+[2026.03.27-02.43.32:546][897]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2026.03.27-02.43.35:793][970]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.27-02.43.35:899][970]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Test_lvl" FILE="../../../../../../GD1133_Lucy_UnrealPinball/MyProject/Content/Test_lvl.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2026.03.27-02.43.35:943][970]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2026.03.27-02.43.35:967][970]LogSavePackage: Moving output files for package: /Game/Test_lvl
+[2026.03.27-02.43.35:967][970]LogSavePackage: Moving '../../../../../../GD1133_Lucy_UnrealPinball/MyProject/Saved/Test_lvlB5429F6B4358298C3B443796E7FDFF29.tmp' to '../../../../../../GD1133_Lucy_UnrealPinball/MyProject/Content/Test_lvl.umap'
+[2026.03.27-02.43.35:974][970]LogFileHelpers: All files are already saved.
+[2026.03.27-02.43.35:974][970]LogFileHelpers: All files are already saved.
+[2026.03.27-02.43.35:975][970]LogFileHelpers: Saving map 'Test_lvl' took 0.077
+[2026.03.27-02.43.35:986][970]LogFileHelpers: InternalPromptForCheckoutAndSave took 192.547 ms (total: 37.8 sec)
+[2026.03.27-02.43.36:066][970]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.27-02.43.36:066][970]LogContentValidation: Enabled validators:
+[2026.03.27-02.43.36:066][970]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.27-02.43.36:066][970]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.27-02.43.36:066][970]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.27-02.43.36:066][970]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.27-02.43.36:066][970]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.27-02.43.36:066][970]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.27-02.43.36:066][970]AssetCheck: /Game/Test_lvl Validating asset
+[2026.03.27-02.44.51:059][642]LogDerivedDataCache: C:/Users/s2533005/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.03.27-02.48.10:538][399]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11115.769531
+[2026.03.27-02.48.10:778][405]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.27-02.48.10:778][405]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11115.972656, Update Interval: 304.563141
